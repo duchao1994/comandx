@@ -36,7 +36,6 @@ Getting Started Guide
 #### 1. Environmental Dependence
 
 - [Install BridgX](https://github.com/galaxy-future/bridgx/blob/dev/docs/EN-README.md);
-- [Install SchedulX](https://github.com/galaxy-future/bridgx/blob/dev/docs/EN-README.md)
 
 #### 2. Installation and Deployment
 
