@@ -42,7 +42,6 @@ ComandX是可观测的界面化的运维解决方案，它是BridgX和SchedulX�
 
 #### 1、环境依赖
 - [安装BridgX](https://github.com/galaxy-future/bridgx/blob/dev/README.md);
-- [安装SchedulX](https://github.com/galaxy-future/schedulx/blob/master/README.md)
 
 #### 2、安装部署  
 
